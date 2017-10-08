@@ -4,5 +4,5 @@
     "require": {},
     "minimum-stability": "dev",
      "license": "Apache-2.0",
-    "description": "helper."
+    "description": "helper for phper."
 }
