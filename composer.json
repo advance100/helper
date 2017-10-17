@@ -4,5 +4,12 @@
     "require": {},
     "minimum-stability": "dev",
      "license": "Apache-2.0",
-    "description": "helper for phper."
+    "description": "helper for phper.",
+    "autoload": {
+        "files": [
+            "debug.php"
+        ],
+
+    }
+
 }
