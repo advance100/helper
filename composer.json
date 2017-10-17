@@ -2,7 +2,7 @@
     "name": "advance100/helper",
     "type": "project",
     "require": {},
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.1",
      "license": "Apache-2.0",
     "description": "helper for phper.",
     "autoload": {
